@@ -1,9 +1,9 @@
 - title: Linkedin
   url: https://www.linkedin.com/in/joonhyung-park-3717121ab/
   icon: fab fa-linkedin
-- title: instagram
-  url: https://www.instagram.com/jh_6687
-  icon: fab fa-instagram-square
 - title: GitHub
   url: https://github.com/Norest73
   icon: fab fa-github
+- title: instagram
+  url: https://www.instagram.com/jh_6687
+  icon: fab fa-instagram
